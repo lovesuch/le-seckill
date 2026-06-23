@@ -1,1 +1,2 @@
-// MarketingActivity.java content
+// Coupon distribution logic
+// ...
