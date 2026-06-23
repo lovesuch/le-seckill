@@ -1,2 +1,1 @@
-// Coupon distribution logic
-// ...
+// 微信现金红包和优惠券发放逻辑

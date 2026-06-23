@@ -1,1 +1,1 @@
-// AsyncCouponTask.java content
+// 异步优惠券发放任务逻辑

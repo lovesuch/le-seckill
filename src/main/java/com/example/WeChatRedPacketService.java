@@ -1,1 +1,1 @@
-// WeChatRedPacketService.java content
+// 微信现金红包发放逻辑
