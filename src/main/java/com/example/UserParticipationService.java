@@ -1,0 +1,1 @@
+// UserParticipationService.java content
