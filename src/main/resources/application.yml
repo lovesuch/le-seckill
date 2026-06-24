@@ -1,8 +1,1 @@
-server:
-  port: 8080
-
-spring:
-  datasource:
-    url: jdbc:mysql://localhost:3306/exampledb
-    username: exampleuser
-    password: examplepassword
+// application.yml content

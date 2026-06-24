@@ -1,8 +1,11 @@
 package com.teamcop.marketing.service;
 
+import com.baomidou.mybatisplus.extension.service.IService;
+import com.teamcop.marketing.entity.RedPacket;
 import org.springframework.stereotype.Service;
 
 @Service
-public class RedPacketService {
-    // 其他方法
+public interface RedPacketService extends IService<RedPacket> {
+    RedPacketVO receiveRedPacket(String activityId, String userId);
+    RedPacketVO getRedPacketDetail(Long redPacketId, String userId);
 }

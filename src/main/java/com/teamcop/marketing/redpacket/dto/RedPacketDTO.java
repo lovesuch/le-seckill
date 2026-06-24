@@ -1,0 +1,1 @@
+// RedPacketDTO.java content

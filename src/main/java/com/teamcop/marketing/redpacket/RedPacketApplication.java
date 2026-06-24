@@ -1,0 +1,1 @@
+// RedPacketApplication.java content

@@ -1,0 +1,1 @@
+// RedPacketVO.java content
