@@ -1,1 +1,1 @@
-// 微商城优惠券发放逻辑
+// Coupon Service implementation

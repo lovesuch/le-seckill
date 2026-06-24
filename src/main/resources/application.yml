@@ -1,10 +1,8 @@
 server:
   port: 8080
-datasource:
-  url: jdbc:mysql://localhost:3306/mydb
-  username: root
-  password: root
+
 spring:
-  jpa:
-    hibernate:
-      ddl-auto: update
+  datasource:
+    url: jdbc:mysql://localhost:3306/exampledb
+    username: exampleuser
+    password: examplepassword
